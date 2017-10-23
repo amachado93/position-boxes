@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+.mainbox {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #e3e4e5;
+}
+
+div > div {
+  width: 100px;
+  height: 100px;
+
+}
