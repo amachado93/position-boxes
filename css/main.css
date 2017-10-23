@@ -19,3 +19,9 @@ div > div {
   position: absolute;
   background-color: #ffc9f6;
 }
+
+.secondbox {
+  position: absolute;
+  right: 0px;
+  background-color: #ffe100;
+}
