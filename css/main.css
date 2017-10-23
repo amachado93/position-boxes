@@ -25,3 +25,10 @@ div > div {
   right: 0px;
   background-color: #ffe100;
 }
+
+.thirdbox {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  background-color: #83bc64;
+}
