@@ -11,7 +11,11 @@ html {
 }
 
 div > div {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
+}
 
+.firstbox {
+  position: absolute;
+  background-color: #ffc9f6;
 }
