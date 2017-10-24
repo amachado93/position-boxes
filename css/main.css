@@ -13,28 +13,25 @@ html {
 div > div {
   width: 200px;
   height: 200px;
+  position: absolute;
 }
 
 .firstbox {
-  position: absolute;
   background-color: #ffc9f6;
 }
 
 .secondbox {
-  position: absolute;
   right: 0px;
   background-color: #ffe100;
 }
 
 .thirdbox {
-  position: absolute;
   left: 0px;
   bottom: 0px;
   background-color: #83bc64;
 }
 
 .fourthbox {
-  position: absolute;
   right: 0px;
   bottom: 0px;
   background-color: #e5e5e5;
